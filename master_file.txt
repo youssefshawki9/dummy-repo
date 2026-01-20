@@ -1,0 +1,2 @@
+This is a file that was created on master branch.
+It does not exist in branch-1.
